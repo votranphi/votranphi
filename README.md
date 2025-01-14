@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=votranphi&show_icons=true&theme=dark" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votranphi&theme=dark&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=votranphi&show_icons=true&theme=highcontrast" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votranphi&layout=compact&theme=highcontrast" height="150" alt="languages graph"  />
 </div>
 
 ###
