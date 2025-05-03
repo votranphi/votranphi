@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=votranphi&show_icons=true&theme=highcontrast" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votranphi&layout=compact&theme=highcontrast" height="150" alt="languages graph"  />
@@ -10,44 +12,40 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
+  <i class="devicon-java-plain colored" style="font-size: 40px;"></i>
+  <i class="devicon-javascript-plain colored" style="font-size: 40px; margin-left: 12px;"></i>
+  <i class="devicon-typescript-plain colored" style="font-size: 40px; margin-left: 12px;"></i>
+  <i class="devicon-python-plain colored" style="font-size: 40px; margin-left: 12px;"></i>
+  <i class="devicon-csharp-plain colored" style="font-size: 40px; margin-left: 12px;"></i>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="springboot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
+  <i class="devicon-vitejs-plain colored" style="font-size: 40px; margin-left: 12px;"></i>
+  <i class="devicon-react-original colored" style="font-size: 40px; margin-left: 12px;"></i>
+  <i class="devicon-nextjs-plain" style="font-size: 40px; margin-left: 12px;"></i>
+  <i class="devicon-tailwindcss-original colored" style="font-size: 40px; margin-left: 12px;"></i>
+  <i class="devicon-eslint-plain colored" style="font-size: 40px; margin-left: 12px;"></i>
+</div>
+
+
+###
+
+<div align="center">
+  <i class="devicon-spring-plain colored" style="font-size: 40px;"></i>
+  <i class="devicon-nestjs-plain colored" style="font-size: 40px; margin-left: 12px;"></i>
+  <i class="devicon-flask-original" style="font-size: 40px; margin-left: 12px;"></i>
+  <i class="devicon-mysql-plain colored" style="font-size: 40px; margin-left: 12px;"></i>
+  <i class="devicon-postgresql-plain colored" style="font-size: 40px; margin-left: 12px;"></i>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="andstu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
+  <i class="devicon-vscode-plain colored" style="font-size: 40px;"></i>
+  <i class="devicon-visualstudio-plain colored" style="font-size: 40px; margin-left: 12px;"></i>
+  <i class="devicon-androidstudio-plain colored" style="font-size: 40px; margin-left: 12px;"></i>
+  <i class="devicon-intellij-plain colored" style="font-size: 40px; margin-left: 12px;"></i>
+  <i class="devicon-docker-plain colored" style="font-size: 40px; margin-left: 12px;"></i>
 </div>
